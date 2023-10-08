@@ -1,0 +1,6 @@
+- [ ] TencentOS-tiny: https://github.com/OpenAtomFoundation/TencentOS-tiny.git
+- [ ] kernel_liteos_a: https://gitee.com/openharmony/kernel_liteos_a.git
+- [ ] kernel_liteos_m: https://gitee.com/openharmony/kernel_liteos_m.git
+- [ ] rt-thread: https://github.com/RT-Thread/rt-thread.git
+- [ ] FreeRTOS: https://github.com/FreeRTOS/FreeRTOS.git
+- [ ] AUTOSAR
